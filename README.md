@@ -1,4 +1,5 @@
-#**What I Learned Today 📖📚**
+#What I Learned Today 📖📚
+
 ![Banner](images/banner.png)
 
 This repository is created with an aim of *keeping tracks of what I learn each day* 💫.
