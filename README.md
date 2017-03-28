@@ -8,7 +8,7 @@ I'll be using this to log any things/skills (professional or personal) I learn o
 
 
 Structure 
-=============
+---------
 The structure is defined as follows:
 
 ```
@@ -19,7 +19,7 @@ The structure is defined as follows:
 
 
 Licence
-=============
+-------
 
 ```
 Feel free to fork and use as your own diary/log/anything. I Hope this helps you be a better person and a better developer.
