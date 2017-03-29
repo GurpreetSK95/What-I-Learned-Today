@@ -9,3 +9,4 @@ March 3️⃣
 
 #### Wednesday the 29th
 - DO NOT CLICK ON SUBMIT BUTTON UNLESS YOU'RE DONE CODING
+- Android loaders
